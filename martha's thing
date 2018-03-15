@@ -1,1 +1,5 @@
 our_csv = open("marthas_function.csv", "w')
+without_enters = our_csv.replace("\n", "")
+
+def quesy_genbank(dna):
+  
