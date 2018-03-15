@@ -1,1 +1,1 @@
-
+our_csv = open("marthas_function.csv", "w')
